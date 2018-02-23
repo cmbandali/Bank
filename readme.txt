@@ -1,4 +1,4 @@
-This is a Bank ATM Simulator!
+This is a Bank Application!
 
 Bank Class:
 
