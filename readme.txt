@@ -1,4 +1,4 @@
-This is a Mock Bank Database!
+This is a Bank ATM Simulator!
 
 Bank Class:
 
